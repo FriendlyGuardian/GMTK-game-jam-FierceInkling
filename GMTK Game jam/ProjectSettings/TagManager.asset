@@ -3,12 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - New tag
+  - human
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - cookie
   - Water
   - UI
   - 
